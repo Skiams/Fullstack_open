@@ -74,6 +74,7 @@ const App = () => {
           setNewNumber('')
           setNewNotif(`Updated ${newName}'s number`)
         })
+        
       }
       return
     }
